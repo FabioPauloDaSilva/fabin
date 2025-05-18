@@ -1,0 +1,24 @@
+{
+  "name": "fabin",
+  "version": "1.0.0",
+  "description": "auk",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioPauloDaSilva/fabin.git"
+  },
+  "author": "Fábio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabioPauloDaSilva/fabin/issues"
+  },
+  "homepage": "https://github.com/FabioPauloDaSilva/fabin#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
